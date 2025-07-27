@@ -1,3 +1,4 @@
+
 # 🛡️ Spam/Fraud Detection System
 
 This project is a machine learning-based web application that detects spam or fraudulent activity from input data using a trained classification model. The system is built using Python, scikit-learn, and Flask for easy deployment.
@@ -38,3 +39,7 @@ This project is a machine learning-based web application that detects spam or fr
 
 
 
+
+# CODSOFT-Spam_SMS_Detection-
+This project uses machine learning to classify SMS messages as Spam or Ham (Not Spam). It involves text preprocessing (like removing stopwords, punctuation, and vectorizing using TF-IDF), and training a model using algorithms like Naive Bayes or Logistic Regression for accurate prediction
+d7b6a9b5969d1a99d5b43ba57b0fa88e68ebb26a
